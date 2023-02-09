@@ -1,2 +1,14 @@
 Thats a python project using pandas,matplotlib and seaborn libraries, analysing a dataset about cereals, getting information and visualising.
+
+To summarize the visualizations provided:
+
+The jointplot shows the relationship between the sugar content and calorie count in cereal. It indicates that cereals with more sugar tend to have higher calorie counts.
+The distplot represents the frequency of calorie counts in cereal, most of which fall between 90-120 calories per serving.
+The boxplot groups the ratings of cereal by their manufacturers (A, G, K, N, P, Q, R).
+The countplot displays the frequency of cereal brands by manufacturer.
+The heatmap displays the correlation between different cereal features, indicating that the rating is correlated with protein, fiber, and potassium content. The map also shows that high sugar and fat content results in higher calorie counts, and there is a strong relationship between fiber and potassium content.
+The barplot displays the average rating of cereal based on the type (cold or hot) and the shelf it is on.
+The lmplot shows the relationship between fiber and potassium content, indicating that cereals higher in fiber tend to have more potassium.
+
+
 Link to the dataset: https://www.kaggle.com/datasets/crawford/80-cereals
