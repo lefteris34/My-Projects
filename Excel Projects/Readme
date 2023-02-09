@@ -1,9 +1,13 @@
 It's two excel projects which are downloable so you can check my work.
 
-First dataset is about Bike sales.
-In the first sheet it's the raw data
-Second sheet, it's the data after the cleaning process
-Third sheet, there are some pivot tables
-And finally at the last sheet, it's the dashboard with some information which could come useful.
+The first dataset is 'Bike Sales Dashboard'.
+The raw data is presented in the first sheet, followed by a cleaned data sheet. 
+In the third sheet, pivot tables provide an overview of the data. 
+Finally, the last sheet showcases the dashboard that displays the information in a visually appealing and easy-to-understand manner.
 
-Second dataset is about Adidas US sales with a dynamic dashboard.
+
+The second is the "Adidas Sales Dashboard"
+
+A comprehensive, interactive dashboard for analyzing and visualizing Adidas sales data, 
+including monthly sales trends, retailer sales, regional sales, and sales distribution by method. 
+With filters for year, region, and product, the dashboard offers in-depth insights into Adidas sales performance and market trends.
