@@ -1,2 +1,6 @@
-A Power BI visualization about COVID-19 cases and deaths in European Countries.
+This Power BI dashboard presents a comprehensive analysis of the COVID-19 situation in European countries. 
+The dashboard features a map highlighting the total cases and deaths in each country, a pie chart breaking down the deaths by country, 
+a bar and line chart showing the evolution of cases and deaths over the years, and a matrix displaying the cases and deaths data for each country. 
+With the filtering options, I can easily choose to focus on a specific country and its data.
+
 Dataset link: https://www.ecdc.europa.eu/en/publications-data/data-daily-new-cases-covid-19-eueea-country
